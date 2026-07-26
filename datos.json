@@ -1,0 +1,29 @@
+{
+  "patente": "JZPL72",
+  "marca": "Chery",
+  "modelo": "Tiggo 3",
+  "anio": 2018,
+  "url": "https://respdocs.github.io/JZPL72/",
+  "documentos": [
+    {
+      "id": "pc",
+      "nombre": "Permiso de Circulación",
+      "vence": "2027-03-31"
+    },
+    {
+      "id": "soap",
+      "nombre": "Seguro Obligatorio (SOAP)",
+          "vence": "2027-03-31"
+    },
+    {
+      "id": "rt",
+      "nombre": "Revisión Técnica",
+        "vence": "2027-05-31"
+    },
+    {
+      "id": "rg",
+      "nombre": "Revisión de Gases",
+      "vence": "2027-05-31"
+    }
+  ]
+}
